@@ -1,0 +1,117 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    
+}
+
+.headp{
+    height: 10%;
+    background-color: white;
+}
+
+main{
+    background-image: url("https://i2.wp.com/www.lilistravelplans.com/wp-content/uploads/2016/02/architecture-1850129_1920-1920X700.jpg?ssl=1");
+    background-color: black;
+   
+}
+
+.head1{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: px;
+}
+
+.navbar1{
+    width: 620px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar2{
+    width: 620px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    height: 35px;
+}
+
+.image{
+    height: 90%;
+    
+}
+
+a{
+    margin-left: 16px;
+}
+
+.text1{
+    height: 30%;
+   
+}
+
+.t1{
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+
+.text2{
+    height: 25%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+
+.buttow{
+    height: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    width: 45%;
+    height: 175%;
+    font-size: 15px;
+    border: 1px solid white;
+}
+
+input:focus{
+    outline: none;
+    border: 1.5px solid #a3a3a3;
+}
+
+
+.foot{
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.prom{
+    height: 250px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: px;
+}
+
+.space{
+    height: 10%;
+}
